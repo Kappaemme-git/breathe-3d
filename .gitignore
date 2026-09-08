@@ -1,0 +1,17 @@
+.vercel/
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+outputs/
+__pycache__/
+*.pyc
+# Retired procedural prototype and its assets
+human.js
+arms.js
+extract-atlas.py
+assets/head.glb
+assets/Map-COL.jpg
+assets/Map-SPEC.jpg
+assets/Infinite-Level_02_Tangent_SmoothUV.jpg

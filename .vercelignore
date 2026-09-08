@@ -1,0 +1,11 @@
+outputs
+README.md
+verify-motion.mjs
+extract-atlas.py
+human.js
+arms.js
+assets/head.glb
+assets/Map-COL.jpg
+assets/Map-SPEC.jpg
+assets/Infinite-Level_02_Tangent_SmoothUV.jpg
+.DS_Store
