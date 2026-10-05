@@ -4,7 +4,7 @@ An interactive Three.js experience exploring what smoking leaves behind.
 
 **[Explore BREATHE →](https://breathe-3d.vercel.app)**
 
-Created by [@Kappaemme](https://x.com/Kappaemme1926) · [GitHub](https://github.com/Kappaemme-git)
+Created by [@Kappaemme](https://x.com/Kappaemmedev) · [GitHub](https://github.com/Kappaemme-git)
 
 ## The experience
 
